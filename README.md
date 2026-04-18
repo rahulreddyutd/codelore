@@ -108,8 +108,6 @@ The quickest path to a live URL is Vercel:
 3. Add VITE_ANTHROPIC_API_KEY under Environment Variables
 4. Deploy
 
-Same note as always — the API key is in the client bundle which is fine for personal use and internal tools. For anything public, move the API call to a backend endpoint and call that from the frontend instead.
-
 ---
 
 ## What I would build next
@@ -120,6 +118,3 @@ Other things on the list: a VS Code extension so you can generate docs inline wi
 
 ---
 
-## License
-
-MIT — use it however you want.
